@@ -1,0 +1,7 @@
+/*Stylesheet for background color, so it's not as bright*/
+body {
+  background-color: lightgrey;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
