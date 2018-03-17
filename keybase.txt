@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ppdrengenx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ppdrengenx.github.io
+  * I am ppdrengenx (https://keybase.io/ppdrengenx) on keybase.
+  * I have a public key with fingerprint A57C 29C9 D2A4 9D35 660C  25E4 8123 E809 9E0E 082C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010179ec52380f1f1446085b50e735d1712c089a19e744585500305f60d2cc09f2320a",
+      "fingerprint": "a57c29c9d2a49d35660c25e48123e8099e0e082c",
+      "host": "keybase.io",
+      "key_id": "8123e8099e0e082c",
+      "kid": "010179ec52380f1f1446085b50e735d1712c089a19e744585500305f60d2cc09f2320a",
+      "uid": "8ea45b3243cf338202a694c31b446a19",
+      "username": "ppdrengenx"
+    },
+    "service": {
+      "hostname": "ppdrengenx.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1521282384,
+  "expire_in": 157680000,
+  "prev": "6e49139fd627e8d300e73ab595160d8bc7aeddcebc5632c6e2cccbca08864a00",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBRRGN610rSL3XuQIIZM0k3OnDNnLqsECUlWlLQGEtYyc+bsOmY7
+28zsumpmhXZDsJ4UN5ISKauHwi50gzJpi4KCIigIiqIL5kMUmWGXM1lP9dh5OZyf
+7/v+7/s4g9MmeLK8Mz/EqlaF87q8d28ci3k2nh4ub+Q0U6/n/I3cFvrrorU6tZ3g
+FkPn/BzgAS8plGCIZBDiQ7wgiEDGGgZUQljnJR4SICsqr1BJELCMMQAI4JAIdEgI
+UEIQQaByPi5kRMLUilpGxGGyKpYIVIiiQ1VQdIRFERCIqSDzEFEZKAoFFMiQMGK1
+absMZk5TbVpomGzGHsFf9v6B/8++Y+N7qCpgDUEBkRBCMgRQFRWBIF5jukzEBdrU
+iqhbKUNHo7pFWdxIgmvycWweNwh1q3Wz/IUpDBtOdUwbTxa1TMckZi1DVDtO1Pa7
+Ck591KXUUS34WyyoGRGdNcoYcWrZhhnh/DxDEsdw1XkMeSiz6IKPo4moYdGg4SKw
+JMqAHXcPjTNJkQoKj5SQLkKJyjoCbj2qhhXMsyZkjUgq1XVCNYJFBIlIWTlEIyqQ
+ZVFQAeDceNsiJudHEvOphpmmbYQjqhOzKNc0cL1qoseb5UmflOZ+NU9W5ow/H/DK
+gowf648oK6acf9Jb3FdYGw/np5Z21gTGlKeLFjdMH/no2X4x+82ykob8Ay+Gv1y+
+M62iYESft+Zobl3bBPEOf2ZSzU20kD+8w94E27/Pa6Kn2vO7L+1fcL/15dCstMuj
+51/fD/bWX129wTp+rvn5928VK7166avkyduNOe/6M8pBEnOlkwf24Yc5bY/6D33V
+OvZ8mpN4fCizZVeg9frgs/IXw+uePvk8OXNJ4lrP7mBnyb3m+RX7PaOlKDX36tvB
+iTsqHzTToRVlHXV7i46vT19+tvJCnjLW1d1anD07e/c+/d0c34k+b//LZM9ypyiQ
+3lLWXp/7Xk3ZamrgWTJQcGvz1LU7Ow/+BCtRPYc=
+=Kx+v
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ppdrengenx
+
+==================================================================
