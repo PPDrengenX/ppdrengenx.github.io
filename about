@@ -5,10 +5,10 @@
 </head>
   <body>
     <nav>
-      <a href="index.html">Hjem</a> |
+      <a href="index">Hjem</a> |
       Omkring Mig |
-      <a href="documents.html">Dokumenter</a> |
-      <a href="contact.html">Kontakt</a>
+      <a href="documents">Dokumenter</a> |
+      <a href="contact">Kontakt</a>
     </nav>
     <div class="body">
       <h1>Om Mig</h1>

@@ -6,9 +6,9 @@
   <body>
     <nav>
       Hjem |
-      <a href="about.html">Omkring Mig</a> |
-      <a href="documents.html">Dokumenter</a> |
-      <a href="contact.html">Kontakt</a>
+      <a href="about">Omkring Mig</a> |
+      <a href="documents">Dokumenter</a> |
+      <a href="contact">Kontakt</a>
     </nav>
     <div class="body">
       <h1>Velkommen</h1>
